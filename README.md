@@ -1,1 +1,1 @@
-Resize angle, count, and stage on keypoint number change (#7598)
+Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
