@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Compress docs images (#8124)
